@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="CS Gen10 Year 3 Results — Software Engineering & Data Science" />
+  <title>CS Gen10 Year 3 Results</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Outfit:wght@500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js@10.2.0/public/assets/styles/choices.min.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="splash" class="splash" aria-hidden="false">
+    <div class="curtain curtain-a"></div>
+    <div class="curtain curtain-b"></div>
+    <div class="splash-center">
+      <p class="splash-eyebrow">Faculty of Digital Engineering</p>
+      <h1 class="splash-title">CS Gen10 Year 3</h1>
+      <p class="splash-sub">Annual Results · 2025–2026</p>
+    </div>
+  </div>
+
+  <div id="app" class="app is-loading">
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="hero-kicker">Computer Science</p>
+        <h1>CS Gen10 Year 3 Results</h1>
+        <p class="hero-meta">Gen10 Year 3 · 2025–2026</p>
+        <p class="hero-sub">Faculty of Digital Engineering · Department of Computer Science</p>
+        <div class="kpis" id="kpis" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <div class="track-wrap">
+      <div class="track-tabs" role="tablist" aria-label="Specialization">
+        <button type="button" class="tab active" data-track="SE" data-tip="Software Engineering only">Software Engineering</button>
+        <button type="button" class="tab" data-track="DS" data-tip="Data Science only">Data Science</button>
+        <button type="button" class="tab" data-track="ALL" data-tip="Combined SE and DS cohort">SE &amp; DS</button>
+      </div>
+    </div>
+
+    <main class="main">
+      <div class="sticky-bar" id="sticky-bar">
+        <div class="search-row">
+          <div class="search-shell">
+            <svg class="icon search-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 015.95 12.1l3.72 3.73a1 1 0 01-1.42 1.41l-3.72-3.72A7.5 7.5 0 1110.5 3zm0 2a5.5 5.5 0 100 11 5.5 5.5 0 000-11z"/></svg>
+            <input class="search" id="search" type="search" placeholder="Search name or ID" autocomplete="off" />
+          </div>
+          <button type="button" class="icon-btn" id="filter-toggle" aria-expanded="false" aria-controls="filter-drawer" data-tip="Toggle filters">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16a1 1 0 010 2H4a1 1 0 010-2zm3 5h10a1 1 0 010 2H7a1 1 0 010-2zm3 5h4a1 1 0 010 2h-4a1 1 0 010-2z"/></svg>
+            <span class="sr-only">Filters</span>
+          </button>
+          <button type="button" class="icon-btn" id="reset" data-tip="Reset all filters">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5a7 7 0 10.7 13.95 1 1 0 01.6-1.91A5 5 0 1112 7V5.5l2.5 2L12 11V5z"/></svg>
+            <span class="sr-only">Reset</span>
+          </button>
+        </div>
+
+        <div class="filter-drawer" id="filter-drawer" hidden>
+          <div class="filter-scroller" id="filter-scroller">
+            <label class="field field-wide" data-menu-min="320">
+              <span>Sort</span>
+              <select class="select" id="sort">
+                <option value="rank-asc">Rank · best first</option>
+                <option value="rank-desc">Rank · worst first</option>
+                <option value="overall-desc">Overall · high → low</option>
+                <option value="overall-asc">Overall · low → high</option>
+                <option value="gpa-desc">GPA · high → low</option>
+                <option value="gpa-asc">GPA · low → high</option>
+                <option value="name-asc">Name · A → Z</option>
+              </select>
+            </label>
+            <label class="field" data-menu-min="240">
+              <span>Group</span>
+              <select class="select" id="filter-group"><option value="all">All groups</option></select>
+            </label>
+            <label class="field" data-menu-min="220">
+              <span>Final grade</span>
+              <select class="select" id="filter-grade">
+                <option value="all">All grades</option>
+                <option value="A">A</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="F">F</option>
+              </select>
+            </label>
+            <label class="field" data-menu-min="220">
+              <span>GPA</span>
+              <select class="select" id="filter-gpa">
+                <option value="all">All GPA</option>
+                <option value="4.00">4.00</option>
+                <option value="3.50">≥ 3.50</option>
+                <option value="3.00">≥ 3.00</option>
+                <option value="below3">&lt; 3.00</option>
+                <option value="0">0.00</option>
+              </select>
+            </label>
+            <label class="field field-wide" data-menu-min="300">
+              <span>Status</span>
+              <select class="select" id="filter-status">
+                <option value="all">All statuses</option>
+                <option value="passed">Passed</option>
+                <option value="repeat-any">Any repeat</option>
+                <option value="repeat-1">Repeat 1 course</option>
+                <option value="repeat-2">Repeat 2 courses</option>
+                <option value="repeat-year">Repeat year</option>
+                <option value="failed-any">Any failed</option>
+                <option value="failed">Failed</option>
+                <option value="dropped">Dropped</option>
+                <option value="suspend">Suspend</option>
+                <option value="change-db">Change to DB</option>
+              </select>
+            </label>
+            <label class="field" data-menu-min="260">
+              <span>More</span>
+              <select class="select" id="filter-more">
+                <option value="all">All students</option>
+                <option value="top10">Top 10</option>
+                <option value="top20">Top 20</option>
+                <option value="has-f">Has subject F</option>
+                <option value="no-f">No subject F</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+              </select>
+            </label>
+            <label class="field field-wide" data-menu-min="360">
+              <span>Focus subject</span>
+              <select class="select" id="filter-subject"><option value="all">All subjects</option></select>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="view-switch" id="view-toggle" role="tablist" aria-label="View mode">
+        <div class="view-slider" id="view-slider" aria-hidden="true"></div>
+        <button type="button" class="view-tab active" data-view="students" data-tip="Browse student cards">Students</button>
+        <button type="button" class="view-tab" data-view="subjects" data-tip="Rank students by each subject">Subjects</button>
+      </div>
+
+      <div class="meta-bar">
+        <span id="count">Loading…</span>
+        <span id="page-sub">Software Engineering</span>
+      </div>
+
+      <div class="results-stage" id="results-stage">
+        <div id="skeleton" class="grid skeleton-grid" hidden></div>
+        <div id="grid" class="grid" aria-live="polite"></div>
+        <div id="empty" class="empty" hidden>No results match these filters.</div>
+      </div>
+    </main>
+  </div>
+
+  <div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/choices.js@10.2.0/public/assets/scripts/choices.min.js"></script>
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

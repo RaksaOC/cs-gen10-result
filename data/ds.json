@@ -1,0 +1,3640 @@
+{
+  "track": "DS",
+  "subjects": [
+    "Capstone Project I",
+    "Statistical Data Analysis",
+    "Introduction to Cybersecurity",
+    "Data Engineering",
+    "Data Visualization",
+    "Project Management",
+    "Capstone Project II",
+    "Cloud Computing",
+    "Fundamentals of Data Science",
+    "Soft Skill (Career Readiness)",
+    "Internship I"
+  ],
+  "students": [
+    {
+      "id": "IDTB100261",
+      "track": "DS",
+      "name": "TY PUNLEU",
+      "group": "G1",
+      "gender": "M",
+      "overall": "91.41",
+      "rank": 1,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "89.99",
+          "grade": "A"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "93.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "97.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "82.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "94.45",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "93.26",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "90.80",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "89.92",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "93.28",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100080",
+      "track": "DS",
+      "name": "SREY SITHARATH",
+      "group": "G1",
+      "gender": "M",
+      "overall": "91.21",
+      "rank": 2,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "89.99",
+          "grade": "A"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "95.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "97.20",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "91.80",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "93.26",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "92.80",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "88.73",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "84.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "90.69",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100257",
+      "track": "DS",
+      "name": "SONG KIMLEANGCHHAY",
+      "group": "G1",
+      "gender": "M",
+      "overall": "91.08",
+      "rank": 3,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "89.99",
+          "grade": "A"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "90.25",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "96.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "93.30",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "93.26",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "97.60",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "92.60",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "90.11",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100057",
+      "track": "DS",
+      "name": "KHY PICHSEREYVATHANAK",
+      "group": "G1",
+      "gender": "M",
+      "overall": "90.79",
+      "rank": 4,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.11",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "94.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "95.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "84.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "93.98",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "81.94",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "91.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "90.52",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "87.16",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "96.66",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100007",
+      "track": "DS",
+      "name": "ENG MENG EANG",
+      "group": "G1",
+      "gender": "M",
+      "overall": "89.46",
+      "rank": 5,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.17",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "92.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "94.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "93.70",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "82.69",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "91.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "86.60",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "85.78",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "85.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "91.92",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100291",
+      "track": "DS",
+      "name": "IM SREYPIN",
+      "group": "G2",
+      "gender": "F",
+      "overall": "88.61",
+      "rank": 6,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.28",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "95.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "92.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "90.16",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "84.14",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "92.80",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "89.94",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "85.50",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "89.42",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100177",
+      "track": "DS",
+      "name": "TES SANA",
+      "group": "G2",
+      "gender": "F",
+      "overall": "88.49",
+      "rank": 7,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.77",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "94.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "97.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "95.17",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "81.85",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "91.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "87.80",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "77.65",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "91.71",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100306",
+      "track": "DS",
+      "name": "CHUM PHALLA",
+      "group": "G1",
+      "gender": "M",
+      "overall": "87.89",
+      "rank": 8,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.11",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "92.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "93.00",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "81.94",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "91.10",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "87.63",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "85.53",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100255",
+      "track": "DS",
+      "name": "POV YANG HAI",
+      "group": "G2",
+      "gender": "M",
+      "overall": "87.05",
+      "rank": 9,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.17",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "95.25",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "95.50",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "85.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "91.77",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "82.69",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "88.30",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "85.30",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "86.50",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "83.87",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100311",
+      "track": "DS",
+      "name": "MAO MONIOUDOM",
+      "group": "G2",
+      "gender": "M",
+      "overall": "87.05",
+      "rank": 10,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.28",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "88.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "83.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "93.11",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "83.72",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "88.33",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "86.08",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "84.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "87.36",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100302",
+      "track": "DS",
+      "name": "VORN SINA",
+      "group": "G2",
+      "gender": "M",
+      "overall": "86.23",
+      "rank": 11,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.17",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "95.10",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "90.01",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "82.69",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "86.90",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "82.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "86.63",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100224",
+      "track": "DS",
+      "name": "CHIM PANHAPRASITH",
+      "group": "G2",
+      "gender": "M",
+      "overall": "86.01",
+      "rank": 12,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.61",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "82.30",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "74.90",
+          "grade": "B"
+        },
+        {
+          "name": "Project Management",
+          "score": "89.63",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "94.50",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "83.81",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "86.61",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100307",
+      "track": "DS",
+      "name": "Unknown",
+      "group": "—",
+      "gender": "",
+      "overall": "85.96",
+      "rank": 13,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.88",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "93.80",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "76.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "92.61",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "83.72",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "85.40",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "86.80",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Internship I",
+          "score": "85.90",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100173",
+      "track": "DS",
+      "name": "PHAL SOVANDY",
+      "group": "G2",
+      "gender": "M",
+      "overall": "85.93",
+      "rank": 14,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.61",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "86.30",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "73.95",
+          "grade": "B"
+        },
+        {
+          "name": "Project Management",
+          "score": "89.63",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "89.88",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "85.38",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "84.29",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100264",
+      "track": "DS",
+      "name": "VUTHY CHANPISETH",
+      "group": "G1",
+      "gender": "M",
+      "overall": "85.27",
+      "rank": 15,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.07",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "93.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "92.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "73.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "89.56",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.55",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "78.64",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "76.93",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "89.38",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100339",
+      "track": "DS",
+      "name": "TANG TECHLENG",
+      "group": "G1",
+      "gender": "M",
+      "overall": "85.18",
+      "rank": 16,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.88",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "95.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "93.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "75.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "90.86",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "83.72",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "82.81",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "83.11",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "85.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "83.63",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100317",
+      "track": "DS",
+      "name": "LEAN SOKKONG",
+      "group": "G1",
+      "gender": "M",
+      "overall": "85.17",
+      "rank": 17,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "77.76",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "94.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "96.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "82.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "94.69",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "78.50",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "84.70",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "83.88",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "83.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "82.73",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100006",
+      "track": "DS",
+      "name": "PHON SEAKLANG",
+      "group": "G1",
+      "gender": "F",
+      "overall": "85.17",
+      "rank": 18,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.31",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "93.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "88.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "71.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "88.72",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.68",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "87.09",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "82.81",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "74.00",
+          "grade": "B"
+        },
+        {
+          "name": "Internship I",
+          "score": "89.49",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100143",
+      "track": "DS",
+      "name": "KHEAN SIEVLINH",
+      "group": "G2",
+      "gender": "F",
+      "overall": "84.80",
+      "rank": 19,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.17",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "93.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "88.50",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "95.92",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "81.85",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "85.60",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "74.44",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "83.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "84.60",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100072",
+      "track": "DS",
+      "name": "CHHEANG SOVANPANHA",
+      "group": "G1",
+      "gender": "M",
+      "overall": "84.79",
+      "rank": 20,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "67.25",
+          "grade": "C+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "91.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "95.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "90.20",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "81.12",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "91.00",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "89.23",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "83.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "80.24",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100344",
+      "track": "DS",
+      "name": "LIM PANHA",
+      "group": "G1",
+      "gender": "M",
+      "overall": "84.73",
+      "rank": 21,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "75.84",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "96.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "93.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "93.29",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "69.46",
+          "grade": "C+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "89.50",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "74.10",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Internship I",
+          "score": "87.76",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100304",
+      "track": "DS",
+      "name": "SAM SOTHEARA",
+      "group": "G1",
+      "gender": "F",
+      "overall": "84.60",
+      "rank": 22,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "75.29",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "94.75",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "97.20",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "94.41",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "73.11",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "84.90",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "82.19",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "82.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "79.57",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100253",
+      "track": "DS",
+      "name": "CHHI HANGCHEAV",
+      "group": "G2",
+      "gender": "M",
+      "overall": "84.60",
+      "rank": 23,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.61",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "90.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "79.90",
+          "grade": "B"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "72.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "73.88",
+          "grade": "B"
+        },
+        {
+          "name": "Project Management",
+          "score": "89.63",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "86.39",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "82.32",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "83.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "87.70",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100315",
+      "track": "DS",
+      "name": "LENG SOKPUNLEU",
+      "group": "G1",
+      "gender": "M",
+      "overall": "84.54",
+      "rank": 24,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "77.76",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "98.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "83.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "90.74",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "78.50",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "71.72",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "87.16",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "83.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "84.76",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100093",
+      "track": "DS",
+      "name": "OUK VATANA",
+      "group": "G2",
+      "gender": "M",
+      "overall": "84.30",
+      "rank": 25,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "91.15",
+          "grade": "A"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "89.40",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.53",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "76.53",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "83.30",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "59.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "88.59",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100002",
+      "track": "DS",
+      "name": "PONH SORPHEA",
+      "group": "G2",
+      "gender": "F",
+      "overall": "84.27",
+      "rank": 26,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "71.72",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "96.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "97.20",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "94.37",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "74.35",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "91.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "88.10",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "74.72",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "71.00",
+          "grade": "B"
+        },
+        {
+          "name": "Internship I",
+          "score": "84.78",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100051",
+      "track": "DS",
+      "name": "Unknown",
+      "group": "—",
+      "gender": "",
+      "overall": "84.22",
+      "rank": 27,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.48",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "94.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "74.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "91.06",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "83.30",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "78.50",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "84.61",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100222",
+      "track": "DS",
+      "name": "PIN RATHANA",
+      "group": "G2",
+      "gender": "F",
+      "overall": "84.18",
+      "rank": 28,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.61",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "95.20",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "76.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "95.92",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "71.38",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "80.19",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "82.19",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "82.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "82.74",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100109",
+      "track": "DS",
+      "name": "SOEUN SOKCHETRA",
+      "group": "G1",
+      "gender": "F",
+      "overall": "83.96",
+      "rank": 29,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.31",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "93.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "87.74",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.68",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "91.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "85.20",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "80.92",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "84.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "78.75",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100055",
+      "track": "DS",
+      "name": "HUY VISA",
+      "group": "G1",
+      "gender": "M",
+      "overall": "83.23",
+      "rank": 30,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "67.25",
+          "grade": "C+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "87.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "98.80",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "78.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "85.36",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "81.12",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "84.84",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "85.90",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "82.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "80.78",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100299",
+      "track": "DS",
+      "name": "KIM JESSICA",
+      "group": "G2",
+      "gender": "F",
+      "overall": "83.20",
+      "rank": 31,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.77",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "86.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "91.10",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "73.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "95.17",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "81.85",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "76.39",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "77.99",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "82.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "82.85",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100271",
+      "track": "DS",
+      "name": "HAY SOPHEAKPAGNA",
+      "group": "G2",
+      "gender": "F",
+      "overall": "83.06",
+      "rank": 32,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.48",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "91.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "76.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "90.26",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "83.72",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "88.36",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "83.98",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "67.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Internship I",
+          "score": "78.67",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100219",
+      "track": "DS",
+      "name": "Unknown",
+      "group": "—",
+      "gender": "",
+      "overall": "82.73",
+      "rank": 33,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "84.01",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "91.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "86.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "76.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "72.28",
+          "grade": "B"
+        },
+        {
+          "name": "Project Management",
+          "score": "89.21",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "89.99",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "76.92",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "55.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "83.99",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100313",
+      "track": "DS",
+      "name": "CHAMREOUN RATANAK",
+      "group": "G2",
+      "gender": "M",
+      "overall": "82.70",
+      "rank": 34,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "77.76",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "84.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "91.20",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "94.14",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "78.50",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "79.30",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "76.64",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "84.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "80.08",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100074",
+      "track": "DS",
+      "name": "CHREN SOPHEARITH",
+      "group": "G1",
+      "gender": "M",
+      "overall": "82.38",
+      "rank": 35,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.07",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "93.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "87.61",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.97",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "75.30",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "81.80",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "74.50",
+          "grade": "B"
+        },
+        {
+          "name": "Internship I",
+          "score": "79.09",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100270",
+      "track": "DS",
+      "name": "UN TITHNARIN",
+      "group": "G1",
+      "gender": "M",
+      "overall": "82.22",
+      "rank": 36,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "78.16",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "95.60",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "75.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "88.24",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "78.92",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "87.10",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "74.33",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "77.84",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100352",
+      "track": "DS",
+      "name": "MANH SEILA",
+      "group": "G1",
+      "gender": "M",
+      "overall": "81.29",
+      "rank": 37,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "89.19",
+          "grade": "A"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "72.75",
+          "grade": "B"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "78.20",
+          "grade": "B"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "69.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "92.66",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "92.83",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "74.29",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "80.88",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "82.50",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "80.34",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100155",
+      "track": "DS",
+      "name": "WON SREYMEY",
+      "group": "G1",
+      "gender": "F",
+      "overall": "81.14",
+      "rank": 38,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "77.76",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "95.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "96.20",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "66.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "88.28",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "78.50",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "89.20",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "73.54",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Internship I",
+          "score": "75.18",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100104",
+      "track": "DS",
+      "name": "CHOEUN RANE",
+      "group": "G2",
+      "gender": "F",
+      "overall": "80.12",
+      "rank": 39,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.21",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "94.80",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "54.65",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "71.38",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "79.60",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "85.57",
+          "grade": "A"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "69.50",
+          "grade": "C+"
+        },
+        {
+          "name": "Internship I",
+          "score": "78.17",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100149",
+      "track": "DS",
+      "name": "SOY DYCHHENY",
+      "group": "G2",
+      "gender": "M",
+      "overall": "79.14",
+      "rank": 40,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.21",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "85.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "76.20",
+          "grade": "B"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "75.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "64.54",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "72.64",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "82.42",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "76.72",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "58.50",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "84.53",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100240",
+      "track": "DS",
+      "name": "KHORN VANNDA",
+      "group": "G1",
+      "gender": "M",
+      "overall": "78.90",
+      "rank": 41,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "69.46",
+          "grade": "C+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "85.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "90.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "69.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "91.59",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "74.95",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "85.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "84.27",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "82.73",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "65.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Internship I",
+          "score": "76.25",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100157",
+      "track": "DS",
+      "name": "TOUCH LYHENG",
+      "group": "G1",
+      "gender": "M",
+      "overall": "78.57",
+      "rank": 42,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.07",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "86.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "80.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "85.85",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.55",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "86.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "75.57",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "70.74",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "63.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "72.50",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100122",
+      "track": "DS",
+      "name": "CHHORN SOTHEA",
+      "group": "G2",
+      "gender": "M",
+      "overall": "77.17",
+      "rank": 43,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.61",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "87.25",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "55.25",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "70.12",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "90.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "76.60",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "75.58",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "62.50",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "74.64",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100135",
+      "track": "DS",
+      "name": "DENG RITHYPANHA",
+      "group": "G2",
+      "gender": "M",
+      "overall": "77.05",
+      "rank": 44,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.21",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "79.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "77.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "51.75",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "71.38",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "85.16",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "66.95",
+          "grade": "C+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "55.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "83.12",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100127",
+      "track": "DS",
+      "name": "VANN VAT",
+      "group": "G2",
+      "gender": "M",
+      "overall": "74.66",
+      "rank": 45,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "84.81",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "79.50",
+          "grade": "B"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "78.80",
+          "grade": "B"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "59.08",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "90.05",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "79.40",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "79.45",
+          "grade": "B"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "67.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Internship I",
+          "score": "62.28",
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100052",
+      "track": "DS",
+      "name": "BOTH CHEALEAN",
+      "group": "G1",
+      "gender": "M",
+      "overall": "74.44",
+      "rank": 46,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "67.25",
+          "grade": "C+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "80.60",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "73.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "84.90",
+          "grade": "B+"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.27",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "88.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "73.67",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "55.84",
+          "grade": "C"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "55.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "72.59",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100010",
+      "track": "DS",
+      "name": "NEM VUTHSOVANNATH",
+      "group": "G1",
+      "gender": "M",
+      "overall": "74.28",
+      "rank": 47,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "67.25",
+          "grade": "C+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "74.50",
+          "grade": "B"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "79.80",
+          "grade": "B"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "75.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "82.05",
+          "grade": "B+"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.27",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "87.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "68.89",
+          "grade": "C+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "52.78",
+          "grade": "C"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "64.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "77.42",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100345",
+      "track": "DS",
+      "name": "SREN SEAVCHHY",
+      "group": "G1",
+      "gender": "F",
+      "overall": "72.76",
+      "rank": 48,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "72.85",
+          "grade": "B"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "75.00",
+          "grade": "B"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "88.40",
+          "grade": "A"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "69.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "72.05",
+          "grade": "B"
+        },
+        {
+          "name": "Project Management",
+          "score": "70.49",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "83.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "50.42",
+          "grade": "C"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "66.66",
+          "grade": "C+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "66.50",
+          "grade": "C+"
+        },
+        {
+          "name": "Internship I",
+          "score": "76.04",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100200",
+      "track": "DS",
+      "name": "PHAN PANHAWORND",
+      "group": "G2",
+      "gender": "M",
+      "overall": "69.33",
+      "rank": 49,
+      "gpa": "2.50",
+      "grade": "C+",
+      "remark": "PASSED REPEAT 1 COURSE",
+      "status": "repeat-1",
+      "fails": 1,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.61",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "85.50",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "18.60",
+          "grade": "F"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "69.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "68.45",
+          "grade": "C+"
+        },
+        {
+          "name": "Project Management",
+          "score": "73.91",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "71.00",
+          "grade": "B"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "75.17",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "67.14",
+          "grade": "C+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "55.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "75.89",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100139",
+      "track": "DS",
+      "name": "TOEK HENGSRENG",
+      "group": "G2",
+      "gender": "M",
+      "overall": "35.42",
+      "rank": 50,
+      "gpa": "0.00",
+      "grade": "F",
+      "remark": "FAILED SUSPEND",
+      "status": "suspend",
+      "fails": 6,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "83.61",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "93.00",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "81.90",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "84.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "62.38",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "0.00",
+          "grade": "F"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "0.00",
+          "grade": "F"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "21.73",
+          "grade": "F"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "38.15",
+          "grade": "F"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "7.00",
+          "grade": "F"
+        },
+        {
+          "name": "Internship I",
+          "score": "0.00",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100268",
+      "track": "DS",
+      "name": "RITH PHEARINSATHYA",
+      "group": "G1",
+      "gender": "M",
+      "overall": "33.98",
+      "rank": 51,
+      "gpa": "0.00",
+      "grade": "F",
+      "remark": "FAILED SUSPEND",
+      "status": "suspend",
+      "fails": 5,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "82.67",
+          "grade": "B+"
+        },
+        {
+          "name": "Statistical Data Analysis",
+          "score": "83.75",
+          "grade": "B+"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "59.20",
+          "grade": "C"
+        },
+        {
+          "name": "Data Engineering",
+          "score": "73.00",
+          "grade": "B"
+        },
+        {
+          "name": "Data Visualization",
+          "score": "81.95",
+          "grade": "B+"
+        },
+        {
+          "name": "Project Management",
+          "score": "76.76",
+          "grade": "B"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "0.00",
+          "grade": "F"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "0.00",
+          "grade": "F"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "0.40",
+          "grade": "F"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "0.00",
+          "grade": "F"
+        },
+        {
+          "name": "Internship I",
+          "score": "0.00",
+          "grade": "F"
+        }
+      ]
+    }
+  ],
+  "rosterSize": 52
+}

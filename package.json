@@ -1,0 +1,10 @@
+{
+  "name": "gen10-results",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gen10 Year 3 annual results — SE & DS static site",
+  "scripts": {
+    "export": "node scripts/export-data.js",
+    "start": "npx --yes serve . -p 4173"
+  }
+}
