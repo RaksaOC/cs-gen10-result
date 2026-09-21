@@ -804,8 +804,11 @@ select {
 }
 
 .rank-row.podium {
-  margin-top: 2px;
+  margin-top: 4px;
+  margin-bottom: 4px;
   border-top: 0 !important;
+  border-radius: var(--r-full);
+  padding: 10px 14px;
 }
 
 .rank-row.podium-1 {
@@ -1021,7 +1024,16 @@ select {
 
 .rank-list {
   max-height: 420px;
-  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge legacy */
+}
+
+.rank-list::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none; /* Chrome/Safari */
 }
 
 .rank-row {
