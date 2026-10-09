@@ -15,84 +15,13 @@
   ],
   "students": [
     {
-      "id": "IDTB100172",
-      "track": "SE",
-      "name": "ORY CHANRAKSA",
-      "group": "G4",
-      "gender": "M",
-      "overall": "92.28",
-      "rank": 1,
-      "gpa": "4.00",
-      "grade": "A",
-      "remark": "PASSED",
-      "status": "passed",
-      "fails": 0,
-      "subjects": [
-        {
-          "name": "Capstone Project I",
-          "score": "86.15",
-          "grade": "A"
-        },
-        {
-          "name": "Fundamental of Game Development",
-          "score": "91.15",
-          "grade": "A"
-        },
-        {
-          "name": "Introduction to Cybersecurity",
-          "score": "75.00",
-          "grade": "B"
-        },
-        {
-          "name": "Fundamental of Mobile Development",
-          "score": "101.00",
-          "grade": "A"
-        },
-        {
-          "name": "Project Management",
-          "score": "89.47",
-          "grade": "A"
-        },
-        {
-          "name": "Capstone Project II",
-          "score": "80.53",
-          "grade": "B+"
-        },
-        {
-          "name": "Advanced Mobile Development",
-          "score": "148.00",
-          "grade": "A"
-        },
-        {
-          "name": "Cloud Computing",
-          "score": "91.21",
-          "grade": "A"
-        },
-        {
-          "name": "Fundamentals of Data Science",
-          "score": "84.57",
-          "grade": "B+"
-        },
-        {
-          "name": "Soft Skill (Career Readiness)",
-          "score": "89.00",
-          "grade": "A"
-        },
-        {
-          "name": "Internship I",
-          "score": "87.58",
-          "grade": "A"
-        }
-      ]
-    },
-    {
       "id": "IDTB100277",
       "track": "SE",
       "name": "MEAS SOPHANITH",
       "group": "G1",
       "gender": "M",
-      "overall": "91.32",
-      "rank": 2,
+      "overall": "91.15",
+      "rank": 1,
       "gpa": "4.00",
       "grade": "A",
       "remark": "PASSED",
@@ -131,7 +60,7 @@
         },
         {
           "name": "Advanced Mobile Development",
-          "score": "102.00",
+          "score": "100.00",
           "grade": "A"
         },
         {
@@ -162,8 +91,8 @@
       "name": "LIM IEANGZORNG",
       "group": "G4",
       "gender": "M",
-      "overall": "90.45",
-      "rank": 3,
+      "overall": "90.13",
+      "rank": 2,
       "gpa": "4.00",
       "grade": "A",
       "remark": "PASSED",
@@ -187,7 +116,7 @@
         },
         {
           "name": "Fundamental of Mobile Development",
-          "score": "104.00",
+          "score": "100.00",
           "grade": "A"
         },
         {
@@ -234,7 +163,7 @@
       "group": "G4",
       "gender": "F",
       "overall": "89.94",
-      "rank": 4,
+      "rank": 3,
       "gpa": "4.00",
       "grade": "A",
       "remark": "PASSED",
@@ -305,7 +234,7 @@
       "group": "G1",
       "gender": "F",
       "overall": "89.76",
-      "rank": 5,
+      "rank": 4,
       "gpa": "4.00",
       "grade": "A",
       "remark": "PASSED",
@@ -376,7 +305,7 @@
       "group": "G4",
       "gender": "M",
       "overall": "88.94",
-      "rank": 6,
+      "rank": 5,
       "gpa": "4.00",
       "grade": "A",
       "remark": "PASSED",
@@ -436,6 +365,77 @@
         {
           "name": "Internship I",
           "score": "89.79",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100172",
+      "track": "SE",
+      "name": "ORY CHANRAKSA",
+      "group": "G4",
+      "gender": "M",
+      "overall": "88.31",
+      "rank": 6,
+      "gpa": "4.00",
+      "grade": "A",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "86.15",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamental of Game Development",
+          "score": "91.15",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "75.00",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamental of Mobile Development",
+          "score": "100.00",
+          "grade": "A"
+        },
+        {
+          "name": "Project Management",
+          "score": "89.47",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "80.53",
+          "grade": "B+"
+        },
+        {
+          "name": "Advanced Mobile Development",
+          "score": "100.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "91.21",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "84.57",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "89.00",
+          "grade": "A"
+        },
+        {
+          "name": "Internship I",
+          "score": "87.58",
           "grade": "A"
         }
       ]
@@ -1932,84 +1932,13 @@
       ]
     },
     {
-      "id": "IDTB100037",
-      "track": "SE",
-      "name": "PHY VATHANAK",
-      "group": "G3",
-      "gender": "M",
-      "overall": "83.60",
-      "rank": 28,
-      "gpa": "3.50",
-      "grade": "B+",
-      "remark": "PASSED",
-      "status": "passed",
-      "fails": 0,
-      "subjects": [
-        {
-          "name": "Capstone Project I",
-          "score": "73.64",
-          "grade": "B"
-        },
-        {
-          "name": "Fundamental of Game Development",
-          "score": "96.66",
-          "grade": "A"
-        },
-        {
-          "name": "Introduction to Cybersecurity",
-          "score": "92.00",
-          "grade": "A"
-        },
-        {
-          "name": "Fundamental of Mobile Development",
-          "score": "50.00",
-          "grade": "C"
-        },
-        {
-          "name": "Project Management",
-          "score": "91.25",
-          "grade": "A"
-        },
-        {
-          "name": "Capstone Project II",
-          "score": "81.51",
-          "grade": "B+"
-        },
-        {
-          "name": "Advanced Mobile Development",
-          "score": "105.00",
-          "grade": "A"
-        },
-        {
-          "name": "Cloud Computing",
-          "score": "82.94",
-          "grade": "B+"
-        },
-        {
-          "name": "Fundamentals of Data Science",
-          "score": "81.78",
-          "grade": "B+"
-        },
-        {
-          "name": "Soft Skill (Career Readiness)",
-          "score": "83.00",
-          "grade": "B+"
-        },
-        {
-          "name": "Internship I",
-          "score": "85.09",
-          "grade": "A"
-        }
-      ]
-    },
-    {
       "id": "IDTB100043",
       "track": "SE",
       "name": "CHOUN RATHANAK",
       "group": "G3",
       "gender": "M",
       "overall": "83.30",
-      "rank": 29,
+      "rank": 28,
       "gpa": "3.50",
       "grade": "B+",
       "remark": "PASSED",
@@ -2069,6 +1998,77 @@
         {
           "name": "Internship I",
           "score": "91.05",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "IDTB100037",
+      "track": "SE",
+      "name": "PHY VATHANAK",
+      "group": "G3",
+      "gender": "M",
+      "overall": "83.20",
+      "rank": 29,
+      "gpa": "3.50",
+      "grade": "B+",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "73.64",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamental of Game Development",
+          "score": "96.66",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "92.00",
+          "grade": "A"
+        },
+        {
+          "name": "Fundamental of Mobile Development",
+          "score": "50.00",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "91.25",
+          "grade": "A"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "81.51",
+          "grade": "B+"
+        },
+        {
+          "name": "Advanced Mobile Development",
+          "score": "100.00",
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "82.94",
+          "grade": "B+"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "81.78",
+          "grade": "B+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "83.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "85.09",
           "grade": "A"
         }
       ]
@@ -6334,13 +6334,84 @@
       ]
     },
     {
+      "id": "IDTB090113",
+      "track": "SE",
+      "name": "Unknown",
+      "group": "—",
+      "gender": "",
+      "overall": "73.95",
+      "rank": 90,
+      "gpa": "3.00",
+      "grade": "B",
+      "remark": "PASSED",
+      "status": "passed",
+      "fails": 0,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "74.28",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamental of Game Development",
+          "score": "91.40",
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "76.30",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamental of Mobile Development",
+          "score": "50.00",
+          "grade": "C"
+        },
+        {
+          "name": "Project Management",
+          "score": "84.28",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "79.87",
+          "grade": "B"
+        },
+        {
+          "name": "Advanced Mobile Development",
+          "score": "75.00",
+          "grade": "B"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "75.87",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "69.60",
+          "grade": "C+"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "81.00",
+          "grade": "B+"
+        },
+        {
+          "name": "Internship I",
+          "score": "72.00",
+          "grade": "B"
+        }
+      ]
+    },
+    {
       "id": "IDTB100032",
       "track": "SE",
       "name": "MAY KUNAPHIVATH",
       "group": "G2",
       "gender": "M",
       "overall": "73.67",
-      "rank": 90,
+      "rank": 91,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED",
@@ -6411,7 +6482,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "72.91",
-      "rank": 91,
+      "rank": 92,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -6482,7 +6553,7 @@
       "group": "G2",
       "gender": "F",
       "overall": "72.60",
-      "rank": 92,
+      "rank": 93,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -6553,7 +6624,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "72.35",
-      "rank": 93,
+      "rank": 94,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -6624,7 +6695,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "71.85",
-      "rank": 94,
+      "rank": 95,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -6695,7 +6766,7 @@
       "group": "G3",
       "gender": "M",
       "overall": "71.70",
-      "rank": 95,
+      "rank": 96,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED",
@@ -6766,7 +6837,7 @@
       "group": "G3",
       "gender": "F",
       "overall": "71.66",
-      "rank": 96,
+      "rank": 97,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -6837,7 +6908,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "71.60",
-      "rank": 97,
+      "rank": 98,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED",
@@ -6908,7 +6979,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "71.60",
-      "rank": 98,
+      "rank": 99,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED",
@@ -6979,7 +7050,7 @@
       "group": "G1",
       "gender": "M",
       "overall": "71.46",
-      "rank": 99,
+      "rank": 100,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7050,7 +7121,7 @@
       "group": "G1",
       "gender": "M",
       "overall": "71.17",
-      "rank": 100,
+      "rank": 101,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7121,7 +7192,7 @@
       "group": "G3",
       "gender": "F",
       "overall": "71.02",
-      "rank": 101,
+      "rank": 102,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7192,7 +7263,7 @@
       "group": "G1",
       "gender": "M",
       "overall": "70.81",
-      "rank": 102,
+      "rank": 103,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7263,7 +7334,7 @@
       "group": "—",
       "gender": "",
       "overall": "70.19",
-      "rank": 103,
+      "rank": 104,
       "gpa": "3.00",
       "grade": "B",
       "remark": "PASSED",
@@ -7334,7 +7405,7 @@
       "group": "G1",
       "gender": "M",
       "overall": "69.60",
-      "rank": 104,
+      "rank": 105,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED",
@@ -7405,7 +7476,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "69.31",
-      "rank": 105,
+      "rank": 106,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7476,7 +7547,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "68.98",
-      "rank": 106,
+      "rank": 107,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED",
@@ -7547,7 +7618,7 @@
       "group": "G3",
       "gender": "M",
       "overall": "68.57",
-      "rank": 107,
+      "rank": 108,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7618,7 +7689,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "67.63",
-      "rank": 108,
+      "rank": 109,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED REPEAT 2 COURSES",
@@ -7689,7 +7760,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "67.43",
-      "rank": 109,
+      "rank": 110,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED",
@@ -7760,7 +7831,7 @@
       "group": "G1",
       "gender": "M",
       "overall": "67.05",
-      "rank": 110,
+      "rank": 111,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7825,13 +7896,84 @@
       ]
     },
     {
+      "id": "IDTB100096",
+      "track": "SE",
+      "name": "KHOV ROTHANAK",
+      "group": "G2",
+      "gender": "M",
+      "overall": "67.00",
+      "rank": 112,
+      "gpa": "2.50",
+      "grade": "C+",
+      "remark": "PASSED REPEAT 1 COURSES",
+      "status": "repeat-1",
+      "fails": 1,
+      "subjects": [
+        {
+          "name": "Capstone Project I",
+          "score": "70.84",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamental of Game Development",
+          "score": "56.48",
+          "grade": "C"
+        },
+        {
+          "name": "Introduction to Cybersecurity",
+          "score": "70.50",
+          "grade": "B"
+        },
+        {
+          "name": "Fundamental of Mobile Development",
+          "score": "69.00",
+          "grade": "C+"
+        },
+        {
+          "name": "Project Management",
+          "score": "80.10",
+          "grade": "B+"
+        },
+        {
+          "name": "Capstone Project II",
+          "score": "73.18",
+          "grade": "B"
+        },
+        {
+          "name": "Advanced Mobile Development",
+          "score": "32.00",
+          "grade": "F"
+        },
+        {
+          "name": "Cloud Computing",
+          "score": "59.70",
+          "grade": "C"
+        },
+        {
+          "name": "Fundamentals of Data Science",
+          "score": "55.05",
+          "grade": "C"
+        },
+        {
+          "name": "Soft Skill (Career Readiness)",
+          "score": "55.00",
+          "grade": "C"
+        },
+        {
+          "name": "Internship I",
+          "score": "80.49",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
       "id": "IDTB100099",
       "track": "SE",
       "name": "SOEUN SOKVIPOR",
       "group": "G3",
       "gender": "F",
       "overall": "66.31",
-      "rank": 111,
+      "rank": 113,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -7902,7 +8044,7 @@
       "group": "G3",
       "gender": "F",
       "overall": "65.85",
-      "rank": 112,
+      "rank": 114,
       "gpa": "2.50",
       "grade": "C+",
       "remark": "PASSED REPEAT 2 COURSES",
@@ -7967,84 +8109,13 @@
       ]
     },
     {
-      "id": "IDTB100096",
-      "track": "SE",
-      "name": "KHOV ROTHANAK",
-      "group": "G2",
-      "gender": "M",
-      "overall": "64.02",
-      "rank": 113,
-      "gpa": "2.00",
-      "grade": "C",
-      "remark": "PASSED REPEAT 2 COURSES",
-      "status": "repeat-2",
-      "fails": 2,
-      "subjects": [
-        {
-          "name": "Capstone Project I",
-          "score": "70.84",
-          "grade": "B"
-        },
-        {
-          "name": "Fundamental of Game Development",
-          "score": "56.48",
-          "grade": "C"
-        },
-        {
-          "name": "Introduction to Cybersecurity",
-          "score": "70.50",
-          "grade": "B"
-        },
-        {
-          "name": "Fundamental of Mobile Development",
-          "score": "69.00",
-          "grade": "C+"
-        },
-        {
-          "name": "Project Management",
-          "score": "80.10",
-          "grade": "B+"
-        },
-        {
-          "name": "Capstone Project II",
-          "score": "73.18",
-          "grade": "B"
-        },
-        {
-          "name": "Advanced Mobile Development",
-          "score": "32.00",
-          "grade": "F"
-        },
-        {
-          "name": "Cloud Computing",
-          "score": "59.70",
-          "grade": "C"
-        },
-        {
-          "name": "Fundamentals of Data Science",
-          "score": "55.05",
-          "grade": "C"
-        },
-        {
-          "name": "Soft Skill (Career Readiness)",
-          "score": "0.00",
-          "grade": "F"
-        },
-        {
-          "name": "Internship I",
-          "score": "80.49",
-          "grade": "B+"
-        }
-      ]
-    },
-    {
       "id": "IDTB100026",
       "track": "SE",
       "name": "CHHEN BUNSREYDET",
       "group": "G1",
       "gender": "F",
       "overall": "61.52",
-      "rank": 114,
+      "rank": 115,
       "gpa": "2.00",
       "grade": "C",
       "remark": "PASSED REPEAT 2 COURSES",
@@ -8115,7 +8186,7 @@
       "group": "—",
       "gender": "",
       "overall": "60.28",
-      "rank": 115,
+      "rank": 116,
       "gpa": "2.00",
       "grade": "C",
       "remark": "PASSED REPEAT 2 COURSES",
@@ -8186,7 +8257,7 @@
       "group": "G1",
       "gender": "M",
       "overall": "57.47",
-      "rank": 116,
+      "rank": 117,
       "gpa": "2.00",
       "grade": "C",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -8257,7 +8328,7 @@
       "group": "G1",
       "gender": "M",
       "overall": "56.35",
-      "rank": 117,
+      "rank": 118,
       "gpa": "2.00",
       "grade": "C",
       "remark": "PASSED REPEAT 1 COURSE",
@@ -8328,7 +8399,7 @@
       "group": "—",
       "gender": "",
       "overall": "45.68",
-      "rank": 118,
+      "rank": 119,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED DROPPED",
@@ -8399,7 +8470,7 @@
       "group": "G2",
       "gender": "F",
       "overall": "35.73",
-      "rank": 119,
+      "rank": 120,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED REPEAT YEAR",
@@ -8470,7 +8541,7 @@
       "group": "G2",
       "gender": "M",
       "overall": "33.08",
-      "rank": 120,
+      "rank": 121,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED DROPPED",
@@ -8541,7 +8612,7 @@
       "group": "—",
       "gender": "",
       "overall": "27.87",
-      "rank": 121,
+      "rank": 122,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED DROPPED",
@@ -8612,7 +8683,7 @@
       "group": "—",
       "gender": "",
       "overall": "19.59",
-      "rank": 122,
+      "rank": 123,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED DROPPED",
@@ -8683,7 +8754,7 @@
       "group": "G4",
       "gender": "F",
       "overall": "0.22",
-      "rank": 123,
+      "rank": 124,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED DROPPED",
@@ -8754,7 +8825,7 @@
       "group": "G2",
       "gender": "F",
       "overall": "0.00",
-      "rank": 124,
+      "rank": 125,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED CHANGE TO DB",
@@ -8825,7 +8896,7 @@
       "group": "G4",
       "gender": "F",
       "overall": "0.00",
-      "rank": 124,
+      "rank": 125,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED DROPPED",
@@ -8896,7 +8967,7 @@
       "group": "G4",
       "gender": "M",
       "overall": "0.00",
-      "rank": 124,
+      "rank": 125,
       "gpa": "0.00",
       "grade": "F",
       "remark": "FAILED DROPPED",

@@ -30,6 +30,39 @@ const PDF_DIR =
   process.env.PDF_DIR || "C:\\Users\\pheng\\Downloads\\Telegram Desktop";
 const OUT_DIR = path.join(__dirname, "..", "data");
 
+/** Prefer `{prefix}_2.pdf`, else newest PDF whose name starts with prefix. */
+function resolveLatestPdf(prefix, explicitEnv) {
+  if (explicitEnv && fs.existsSync(path.join(PDF_DIR, explicitEnv))) {
+    return explicitEnv;
+  }
+  const preferred = `${prefix}_2.pdf`;
+  if (fs.existsSync(path.join(PDF_DIR, preferred))) {
+    return preferred;
+  }
+  const files = fs
+    .readdirSync(PDF_DIR)
+    .filter((f) => f.toLowerCase().endsWith(".pdf") && f.startsWith(prefix))
+    .map((f) => ({
+      name: f,
+      mtime: fs.statSync(path.join(PDF_DIR, f)).mtimeMs,
+    }))
+    .sort((a, b) => b.mtime - a.mtime || a.name.localeCompare(b.name));
+  if (!files.length) {
+    throw new Error(`No PDF found in ${PDF_DIR} matching ${prefix}*`);
+  }
+  return files[0].name;
+}
+
+function pdfMeta(fileName) {
+  const full = path.join(PDF_DIR, fileName);
+  const st = fs.statSync(full);
+  return {
+    file: fileName,
+    sizeBytes: st.size,
+    modifiedAt: st.mtime.toISOString(),
+  };
+}
+
 const SE_SUBJECTS = [
   "Capstone Project I",
   "Fundamental of Game Development",
@@ -204,18 +237,21 @@ function merge(track, lists, resultFile, subjects) {
 
 async function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
-  const se = await merge(
-    "SE",
-    SE_LISTS,
-    "Gen10_Year3_SE_Annual_Result.pdf",
-    SE_SUBJECTS
+  const sePdf = resolveLatestPdf(
+    "Gen10_Year3_SE_Annual_Result",
+    process.env.SE_RESULT_PDF
   );
-  const ds = await merge(
-    "DS",
-    DS_LISTS,
-    "Gen10_Year3_DS_Annual_Result.pdf",
-    DS_SUBJECTS
+  const dsPdf = resolveLatestPdf(
+    "Gen10_Year3_DS_Annual_Result",
+    process.env.DS_RESULT_PDF
   );
+  const seMeta = pdfMeta(sePdf);
+  const dsMeta = pdfMeta(dsPdf);
+  console.log("SE result PDF:", seMeta);
+  console.log("DS result PDF:", dsMeta);
+
+  const se = await merge("SE", SE_LISTS, sePdf, SE_SUBJECTS);
+  const ds = await merge("DS", DS_LISTS, dsPdf, DS_SUBJECTS);
 
   const payload = {
     meta: {
@@ -224,6 +260,7 @@ async function main() {
       faculty: "Faculty of Digital Engineering",
       department: "Department of Computer Science",
       generatedAt: new Date().toISOString(),
+      sourcePdfs: { SE: seMeta, DS: dsMeta },
     },
     tracks: {
       SE: { label: "Software Engineering", subjects: se.subjects },
